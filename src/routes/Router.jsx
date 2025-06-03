@@ -8,7 +8,7 @@ import Home from '../pages/Home';
 import Nav from '../components/Nav';
 import Register from '../pages/Register';
 import Login from '../pages/Login';
-import ProductDetails from '../pages/productDetails';
+import ProductDetails from '../pages/ProductDetails';
 import Footer from '../components/Footer';
 
 function Layout() {
